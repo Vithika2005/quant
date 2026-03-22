@@ -1,7 +1,7 @@
 # quant
 
 We would be having some data and would run some models on it for making some decisions.
-This is a part of Trading Straytegies and Algo Trading.
+This is a part of Trading Strategies and Algo Trading.
 
 All that we do would be a combination of mathematical concepts and models.
 
