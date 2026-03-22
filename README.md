@@ -25,4 +25,34 @@ Aspects used:
 - Credit Risk modelling: logistic regression, scorecard modelling, PG-LGD-EAD frameworks, BASEL, IFRS9, CECL, CCAR
 - Volatility based models: GARCH, EGARCH, GJR-GARCH understand how momentum impacts market
 
-
+PROJECTS WE WILL DO:
+(Mathematical concepts will be covered with the project itself)
+1. Phase 1: Beginning
+- Trading Strategy Backtester
+- Stock Price analyser
+- Stock price prediction with machine learning (linear regression, random forest, xgboost, lstm)
+- Financial statement analysis and valuation tool
+- Stock performance and risk analysis dashboard
+- Budgeting, forecasting and scenario analysis
+  
+2. Phase 2: Intermediate
+- Monte Carlo stock simulator for risk
+- Monte Carlo simulation for option pricing
+- Portfolio Optimization tool
+- Pairs trading strategy backtest
+- VaR Calculator
+- Eigen portfolio construction via random matrix theory
+- HMM
+- Adversarial stress testing via generative models
+  
+3. Phase 3: Advanced
+- Improving basket trading using bayesian optimization
+- Robust portfolio optimization via smart predict then optimize (SPO)
+- Derivative Hedging using Reinforcement learning 
+- Avellaneda-Stoikov Market
+- Hawkes Process for order flow alpha
+- Cross impact and optimal execution
+- Intraday Volatility forecasting via realised kernels
+- Meta labelling framework triple barrier labelling pipeline
+- Orthogonal alpha stacking
+- Capacity and market impacy scaling laws 
